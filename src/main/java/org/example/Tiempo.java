@@ -34,5 +34,4 @@ public class Tiempo {
         return this.hora + "h" + this.minutos + "m" + this.segundos + "s";
     }
 
-    public static Tiempo SumaDeTiempo (Tiempo tiempo1, tiempo2)
 }
