@@ -1,6 +1,6 @@
 package org.example;
 
-public class Empleado extends Manager {
+public class Empleado extends Cliente{
 
     private int NumeroEmpleado;
     private Double salario;
